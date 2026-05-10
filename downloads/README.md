@@ -20,6 +20,7 @@
 - [mmipk2](./mmipk2)
 - [nnf0xh](./nnf0xh)
 - [py8m43](./py8m43)
+- [ryusui](./ryusui)
 - [share](./share)
 - [tzatzb](./tzatzb)
 - [xi1dlq](./xi1dlq)
